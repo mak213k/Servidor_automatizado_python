@@ -1,0 +1,19 @@
+apache_start.bat - liga o apache
+
+apache_stop.bat - desliga o apache
+
+cmd_ipython.bat - liga o terminal do Ipython
+
+cmd_jupyter.bat - liga o jupyter notebook
+
+cmd_mysql.bat - liga o banco de dados mysql embutido
+
+cmd_pip.bat - faz a instalação de pacotes pip install <nome do pacote>
+
+cmd_python.bat - linha de comando para lançamento de comandos do python
+
+Fabrica - área para desenvolvimento dos sistemas
+
+Ligar Servidor simpleHTTPServer.cmd - Ligar o Servidor simpleHTTPServer - não renderiza o python. Apenas o Apache
+
+Terminal Python.cmd - Terminal para desenvolvimento de código 

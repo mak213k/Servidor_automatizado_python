@@ -1,0 +1,47 @@
+﻿C:/Users/maykocosta/Desktop/AmbientePy/Apache24
+
+Alterações no arquivo http.conf
+
+Mudar a diretiva MOD_WSGI_APACHE_ROOTDIR na pasta script do python 
+C:\Users\maykocosta\Desktop\AmbientePy\ServidorPython\python32_web\Scripts
+
+set "MOD_WSGI_APACHE_ROOTDIR=C:/Users/maykocosta/Desktop/AmbientePy/Apache24" setar o endereeço do apache
+
+
+Instalar o mod-wsgi
+
+pip install setuptools==3.6
+
+baixar apache com o noma Apache24 ( preferencia lounge apache)
+
+instalar a biblioteca python c++ reditributable
+
+pip install mod-wsgi
+
+Mudar o http.conf na pasta conf, seção Dynamic Shared Object (DSO) Support, do apache, com as configuração pelas que estão no terminal cmd_script.bat com o 
+comando mod_wsgi-express module-config( copiar e colar).
+
+
+Fazer as seguintes mudanças no httpd.conf:
+
+variaveis local_path = Pasta onde está o Apache 
+fabrica = Onde fica os projetos
+
+
+
+
+Todos os arquivos .py devem ser configurados com o seguinte cabeçalho:
+
+#!C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/python.exe - diretório onde está o python.
+import cgi;
+import cgitb;cgitb.enable()
+
+
+Ativar (descomentar) a diretiva: AddHandler cgi-script .cgi e colocar .py no final da diretiva.Daforma abaixo:
+
+    AddHandler cgi-script .cgi .py
+
+
+Executar o apache.
+
+Colocar URL http://localhost:9000/ 

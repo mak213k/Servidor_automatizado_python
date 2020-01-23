@@ -1,0 +1,555 @@
+[Fri Jul 26 10:20:24.925256 2019] [mpm_winnt:notice] [pid 6972:tid 376] AH00455: Apache/2.4.39 (Win32) configured -- resuming normal operations
+[Fri Jul 26 10:20:24.927256 2019] [mpm_winnt:notice] [pid 6972:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 10:20:24.927256 2019] [core:notice] [pid 6972:tid 376] AH00094: Command line: 'httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 10:20:24.952256 2019] [mpm_winnt:notice] [pid 6972:tid 376] AH00418: Parent: Created child process 6512
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6512:tid 392] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 10:20:33.728256 2019] [authz_core:error] [pid 6512:tid 912] [client ::1:3336] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/
+[Fri Jul 26 10:20:41.060256 2019] [authz_core:error] [pid 6512:tid 912] [client ::1:3338] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/
+[Fri Jul 26 10:22:35.385256 2019] [authz_core:error] [pid 6512:tid 912] [client ::1:3352] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/
+[Fri Jul 26 10:22:38.927256 2019] [authz_core:error] [pid 6512:tid 912] [client ::1:3354] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/
+[Fri Jul 26 10:23:05.097256 2019] [authz_core:error] [pid 6512:tid 908] [client ::1:3362] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/
+[Fri Jul 26 10:23:46.345256 2019] [mpm_winnt:notice] [pid 6972:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 10:23:48.345256 2019] [mpm_winnt:notice] [pid 6512:tid 392] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 10:23:48.370256 2019] [mpm_winnt:notice] [pid 6972:tid 376] AH00430: Parent: Child process 6512 exited successfully.
+[Fri Jul 26 10:24:04.476256 2019] [mpm_winnt:notice] [pid 10156:tid 376] AH00455: Apache/2.4.39 (Win32) configured -- resuming normal operations
+[Fri Jul 26 10:24:04.477256 2019] [mpm_winnt:notice] [pid 10156:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 10:24:04.477256 2019] [core:notice] [pid 10156:tid 376] AH00094: Command line: 'httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 10:24:04.489256 2019] [mpm_winnt:notice] [pid 10156:tid 376] AH00418: Parent: Created child process 4828
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4828:tid 392] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 10:24:07.102256 2019] [authz_core:error] [pid 4828:tid 904] [client ::1:3410] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/
+[Fri Jul 26 10:27:05.814256 2019] [mpm_winnt:notice] [pid 10156:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 10:27:07.814256 2019] [mpm_winnt:notice] [pid 4828:tid 392] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 10:27:07.841256 2019] [mpm_winnt:notice] [pid 10156:tid 376] AH00430: Parent: Child process 4828 exited successfully.
+[Fri Jul 26 10:30:41.967610 2019] [mpm_winnt:notice] [pid 9428:tid 376] AH00455: Apache/2.4.39 (Win32) configured -- resuming normal operations
+[Fri Jul 26 10:30:41.968610 2019] [mpm_winnt:notice] [pid 9428:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 10:30:41.968610 2019] [core:notice] [pid 9428:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 10:30:42.020615 2019] [mpm_winnt:notice] [pid 9428:tid 376] AH00418: Parent: Created child process 3944
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 3944:tid 392] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 10:30:51.813594 2019] [cgi:error] [pid 3944:tid 880] [client ::1:3448] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/, referer: http://localhost:9000/
+[Fri Jul 26 10:31:09.123325 2019] [mpm_winnt:notice] [pid 9428:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Fri Jul 26 10:31:11.123525 2019] [mpm_winnt:notice] [pid 3944:tid 392] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 10:31:11.151528 2019] [mpm_winnt:notice] [pid 9428:tid 376] AH00430: Parent: Child process 3944 exited successfully.
+[Fri Jul 26 10:32:18.143226 2019] [mpm_winnt:notice] [pid 9824:tid 376] AH00455: Apache/2.4.39 (Win32) configured -- resuming normal operations
+[Fri Jul 26 10:32:18.144226 2019] [mpm_winnt:notice] [pid 9824:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 10:32:18.144226 2019] [core:notice] [pid 9824:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 10:32:18.157228 2019] [mpm_winnt:notice] [pid 9824:tid 376] AH00418: Parent: Created child process 8640
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8640:tid 392] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 10:37:07.013110 2019] [cgi:error] [pid 8640:tid 912] [client ::1:3659] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/, referer: http://localhost:9000/
+[Fri Jul 26 10:44:26.127017 2019] [mpm_winnt:notice] [pid 9824:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 10:44:28.128218 2019] [mpm_winnt:notice] [pid 8640:tid 392] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 10:44:28.153220 2019] [mpm_winnt:notice] [pid 9824:tid 376] AH00430: Parent: Child process 8640 exited successfully.
+[Fri Jul 26 10:44:46.550060 2019] [mpm_winnt:notice] [pid 7180:tid 376] AH00455: Apache/2.4.39 (Win32) configured -- resuming normal operations
+[Fri Jul 26 10:44:46.551060 2019] [mpm_winnt:notice] [pid 7180:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 10:44:46.551060 2019] [core:notice] [pid 7180:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 10:44:46.565061 2019] [mpm_winnt:notice] [pid 7180:tid 376] AH00418: Parent: Created child process 9124
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 9124:tid 392] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 10:57:06.055026 2019] [mpm_winnt:notice] [pid 7180:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 10:57:08.094026 2019] [mpm_winnt:notice] [pid 9124:tid 392] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 10:57:08.319026 2019] [mpm_winnt:notice] [pid 7180:tid 376] AH00430: Parent: Child process 9124 exited successfully.
+[Fri Jul 26 10:59:53.523026 2019] [mpm_winnt:notice] [pid 7572:tid 376] AH00455: Apache/2.4.39 (Win32) configured -- resuming normal operations
+[Fri Jul 26 10:59:53.523026 2019] [mpm_winnt:notice] [pid 7572:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 10:59:53.523026 2019] [core:notice] [pid 7572:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 10:59:53.539026 2019] [mpm_winnt:notice] [pid 7572:tid 376] AH00418: Parent: Created child process 7968
+[Fri Jul 26 10:59:54.142026 2019] [mpm_winnt:notice] [pid 7968:tid 392] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 11:02:32.605026 2019] [mpm_winnt:notice] [pid 7572:tid 376] AH00428: Parent: child process 7968 exited with status 1 -- Restarting.
+[Fri Jul 26 11:02:32.692026 2019] [mpm_winnt:notice] [pid 7572:tid 376] AH00455: Apache/2.4.39 (Win32) configured -- resuming normal operations
+[Fri Jul 26 11:02:32.710026 2019] [mpm_winnt:notice] [pid 7572:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 11:02:32.710026 2019] [core:notice] [pid 7572:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 11:02:32.728026 2019] [mpm_winnt:notice] [pid 7572:tid 376] AH00418: Parent: Created child process 8564
+[Fri Jul 26 11:02:33.386026 2019] [mpm_winnt:notice] [pid 8564:tid 388] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 11:02:48.817026 2019] [mpm_winnt:crit] [pid 8564:tid 388] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Jul 26 11:02:48.818026 2019] [mpm_winnt:warn] [pid 8564:tid 372] (OS 995)A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Jul 26 11:02:48.819026 2019] [mpm_winnt:warn] [pid 8564:tid 924] (OS 995)A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Jul 26 11:02:50.818026 2019] [mpm_winnt:notice] [pid 8564:tid 388] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 11:04:15.356026 2019] [core:warn] [pid 1124:tid 364] AH00098: pid file C:/Users/maykocosta/Desktop/AmbientePy/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jul 26 11:04:15.361026 2019] [mpm_winnt:notice] [pid 1124:tid 364] AH00455: Apache/2.4.39 (Win32) configured -- resuming normal operations
+[Fri Jul 26 11:04:15.361026 2019] [mpm_winnt:notice] [pid 1124:tid 364] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 11:04:15.361026 2019] [core:notice] [pid 1124:tid 364] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 11:04:15.375026 2019] [mpm_winnt:notice] [pid 1124:tid 364] AH00418: Parent: Created child process 9824
+[Fri Jul 26 11:04:16.000026 2019] [mpm_winnt:notice] [pid 9824:tid 392] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 11:13:14.706844 2019] [mpm_winnt:crit] [pid 9824:tid 392] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Jul 26 11:13:14.706844 2019] [mpm_winnt:warn] [pid 9824:tid 376] (OS 995)A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Jul 26 11:13:14.707844 2019] [mpm_winnt:warn] [pid 9824:tid 924] (OS 995)A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Fri Jul 26 11:13:16.707044 2019] [mpm_winnt:notice] [pid 9824:tid 392] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 11:13:22.265600 2019] [core:warn] [pid 6720:tid 364] AH00098: pid file C:/Users/maykocosta/Desktop/AmbientePy/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jul 26 11:13:22.276601 2019] [mpm_winnt:notice] [pid 6720:tid 364] AH00455: Apache/2.4.39 (Win32) configured -- resuming normal operations
+[Fri Jul 26 11:13:22.276601 2019] [mpm_winnt:notice] [pid 6720:tid 364] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 11:13:22.276601 2019] [core:notice] [pid 6720:tid 364] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 11:13:22.298603 2019] [mpm_winnt:notice] [pid 6720:tid 364] AH00418: Parent: Created child process 4692
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 4692:tid 392] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 11:32:09.685792 2019] [mpm_winnt:notice] [pid 6720:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Fri Jul 26 11:32:11.685792 2019] [mpm_winnt:notice] [pid 4692:tid 392] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 11:32:11.716792 2019] [mpm_winnt:notice] [pid 6720:tid 364] AH00430: Parent: Child process 4692 exited successfully.
+[Fri Jul 26 11:47:21.223792 2019] [mpm_winnt:notice] [pid 6896:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 11:47:21.224792 2019] [mpm_winnt:notice] [pid 6896:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 11:47:21.224792 2019] [core:notice] [pid 6896:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 11:47:21.259792 2019] [mpm_winnt:notice] [pid 6896:tid 376] AH00418: Parent: Created child process 8060
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 8060:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 11:54:37.957792 2019] [mpm_winnt:notice] [pid 6896:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Fri Jul 26 11:54:39.971792 2019] [mpm_winnt:notice] [pid 8060:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 11:54:40.023792 2019] [mpm_winnt:notice] [pid 6896:tid 376] AH00430: Parent: Child process 8060 exited successfully.
+[Fri Jul 26 12:19:23.807813 2019] [mpm_winnt:notice] [pid 9528:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 12:19:23.808813 2019] [mpm_winnt:notice] [pid 9528:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 12:19:23.808813 2019] [core:notice] [pid 9528:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 12:19:23.823813 2019] [mpm_winnt:notice] [pid 9528:tid 376] AH00418: Parent: Created child process 3880
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 3880:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 12:23:06.494813 2019] [mpm_winnt:notice] [pid 9528:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 12:23:08.494813 2019] [mpm_winnt:notice] [pid 3880:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 12:23:08.561813 2019] [mpm_winnt:notice] [pid 9528:tid 376] AH00430: Parent: Child process 3880 exited successfully.
+[Fri Jul 26 12:27:20.241813 2019] [mpm_winnt:notice] [pid 1052:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 12:27:20.242813 2019] [mpm_winnt:notice] [pid 1052:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 12:27:20.242813 2019] [core:notice] [pid 1052:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 12:27:20.262813 2019] [mpm_winnt:notice] [pid 1052:tid 376] AH00418: Parent: Created child process 7740
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 7740:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 12:28:18.324813 2019] [mpm_winnt:notice] [pid 1052:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 12:28:20.325813 2019] [mpm_winnt:notice] [pid 7740:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 12:28:20.379813 2019] [mpm_winnt:notice] [pid 1052:tid 376] AH00430: Parent: Child process 7740 exited successfully.
+[Fri Jul 26 12:28:27.581813 2019] [mpm_winnt:notice] [pid 1204:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 12:28:27.582813 2019] [mpm_winnt:notice] [pid 1204:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 12:28:27.582813 2019] [core:notice] [pid 1204:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 12:28:27.601813 2019] [mpm_winnt:notice] [pid 1204:tid 376] AH00418: Parent: Created child process 8064
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 8064:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 12:29:32.256813 2019] [mpm_winnt:notice] [pid 1204:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 12:29:34.257813 2019] [mpm_winnt:notice] [pid 8064:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 12:29:34.316813 2019] [mpm_winnt:notice] [pid 1204:tid 376] AH00430: Parent: Child process 8064 exited successfully.
+[Fri Jul 26 12:29:42.426813 2019] [mpm_winnt:notice] [pid 6452:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 12:29:42.427813 2019] [mpm_winnt:notice] [pid 6452:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 12:29:42.427813 2019] [core:notice] [pid 6452:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 12:29:42.439813 2019] [mpm_winnt:notice] [pid 6452:tid 376] AH00418: Parent: Created child process 3244
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 3244:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 12:29:49.001813 2019] [wsgi:error] [pid 3244:tid 1008] [client ::1:5936] mod_wsgi (pid=3244): Target WSGI script 'C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi-bin/helloworld.py' does not contain WSGI application 'application'.
+[Fri Jul 26 12:29:56.781813 2019] [wsgi:error] [pid 3244:tid 1008] [client ::1:5938] mod_wsgi (pid=3244): Target WSGI script 'C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi-bin/helloworld.py' does not contain WSGI application 'application'., referer: http://localhost:9000/
+[Fri Jul 26 12:37:03.041813 2019] [wsgi:error] [pid 3244:tid 1008] [client ::1:6121] mod_wsgi (pid=3244): Target WSGI script 'C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi-bin/helloworld.py' does not contain WSGI application 'application'.
+[Fri Jul 26 12:37:32.949813 2019] [mpm_winnt:notice] [pid 6452:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 12:37:34.950813 2019] [mpm_winnt:notice] [pid 3244:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 12:37:35.047813 2019] [mpm_winnt:notice] [pid 6452:tid 376] AH00430: Parent: Child process 3244 exited successfully.
+[Fri Jul 26 12:38:33.206813 2019] [mpm_winnt:notice] [pid 6108:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 12:38:33.206813 2019] [mpm_winnt:notice] [pid 6108:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 12:38:33.206813 2019] [core:notice] [pid 6108:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 12:38:33.222813 2019] [mpm_winnt:notice] [pid 6108:tid 376] AH00418: Parent: Created child process 7960
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 7960:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 12:44:54.979813 2019] [mpm_winnt:notice] [pid 6108:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 12:44:56.980813 2019] [mpm_winnt:notice] [pid 7960:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 12:44:57.041813 2019] [mpm_winnt:notice] [pid 6108:tid 376] AH00430: Parent: Child process 7960 exited successfully.
+[Fri Jul 26 12:46:21.282813 2019] [mpm_winnt:notice] [pid 9720:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 12:46:21.283813 2019] [mpm_winnt:notice] [pid 9720:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 12:46:21.283813 2019] [core:notice] [pid 9720:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 12:46:21.298813 2019] [mpm_winnt:notice] [pid 9720:tid 376] AH00418: Parent: Created child process 4544
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 4544:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 12:58:18.702612 2019] [mpm_winnt:notice] [pid 9720:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 12:58:20.703812 2019] [mpm_winnt:notice] [pid 4544:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 12:58:20.763818 2019] [mpm_winnt:notice] [pid 9720:tid 376] AH00430: Parent: Child process 4544 exited successfully.
+[Fri Jul 26 13:26:47.179633 2019] [mpm_winnt:notice] [pid 8812:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 13:26:47.212633 2019] [mpm_winnt:notice] [pid 8812:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 13:26:47.212633 2019] [core:notice] [pid 8812:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 13:26:47.240633 2019] [mpm_winnt:notice] [pid 8812:tid 376] AH00418: Parent: Created child process 4700
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 4700:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 13:27:34.798633 2019] [mpm_winnt:notice] [pid 8812:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jul 26 13:28:04.798633 2019] [mpm_winnt:notice] [pid 8812:tid 376] AH00431: Parent: Forcing termination of child process 4700
+[Fri Jul 26 13:28:30.087633 2019] [mpm_winnt:notice] [pid 6216:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 13:28:30.088633 2019] [mpm_winnt:notice] [pid 6216:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 13:28:30.088633 2019] [core:notice] [pid 6216:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 13:28:30.104633 2019] [mpm_winnt:notice] [pid 6216:tid 376] AH00418: Parent: Created child process 5552
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 5552:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 13:29:29.235633 2019] [cgi:error] [pid 5552:tid 932] [client ::1:7825] AH02811: script not found or unable to stat: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/public
+[Fri Jul 26 13:29:31.861633 2019] [cgi:error] [pid 5552:tid 932] [client ::1:7825] AH02811: script not found or unable to stat: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/public
+[Fri Jul 26 13:31:11.135633 2019] [cgi:error] [pid 5552:tid 964] [client ::1:7837] AH02811: script not found or unable to stat: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/public
+[Fri Jul 26 13:31:15.554633 2019] [mpm_winnt:notice] [pid 6216:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server shutdown initiated...
+[Fri Jul 26 13:31:47.476633 2019] [mpm_winnt:notice] [pid 5552:tid 472] AH00362: Child: Waiting 30 more seconds for 1 worker threads to finish.
+[Fri Jul 26 13:32:14.214633 2019] [mpm_winnt:notice] [pid 5552:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 13:37:42.160633 2019] [core:warn] [pid 9536:tid 364] AH00098: pid file C:/Users/maykocosta/Desktop/AmbientePy/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jul 26 13:37:42.165633 2019] [mpm_winnt:notice] [pid 9536:tid 364] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 13:37:42.165633 2019] [mpm_winnt:notice] [pid 9536:tid 364] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 13:37:42.165633 2019] [core:notice] [pid 9536:tid 364] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 13:37:42.180633 2019] [mpm_winnt:notice] [pid 9536:tid 364] AH00418: Parent: Created child process 7788
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 7788:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 13:37:46.725633 2019] [mpm_winnt:notice] [pid 9536:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 13:37:48.725633 2019] [mpm_winnt:notice] [pid 7788:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 13:37:48.784633 2019] [mpm_winnt:notice] [pid 9536:tid 364] AH00430: Parent: Child process 7788 exited successfully.
+[Fri Jul 26 13:41:20.920633 2019] [mpm_winnt:notice] [pid 4228:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 13:41:20.920633 2019] [mpm_winnt:notice] [pid 4228:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 13:41:20.920633 2019] [core:notice] [pid 4228:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 13:41:20.935633 2019] [mpm_winnt:notice] [pid 4228:tid 376] AH00418: Parent: Created child process 10200
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 10200:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 13:41:27.325633 2019] [authz_core:error] [pid 10200:tid 980] [client ::1:7945] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/publicindex.html
+[Fri Jul 26 13:41:42.569633 2019] [authz_core:error] [pid 10200:tid 972] [client ::1:7948] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/publicindex.html, referer: http://localhost:9000/wsgi-bin/
+[Fri Jul 26 13:42:51.843633 2019] [mpm_winnt:notice] [pid 4228:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server shutdown initiated...
+[Fri Jul 26 13:43:06.443633 2019] [mpm_winnt:notice] [pid 10200:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 13:44:15.824633 2019] [core:warn] [pid 1876:tid 364] AH00098: pid file C:/Users/maykocosta/Desktop/AmbientePy/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jul 26 13:44:15.829633 2019] [mpm_winnt:notice] [pid 1876:tid 364] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 13:44:15.829633 2019] [mpm_winnt:notice] [pid 1876:tid 364] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 13:44:15.829633 2019] [core:notice] [pid 1876:tid 364] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 13:44:15.842633 2019] [mpm_winnt:notice] [pid 1876:tid 364] AH00418: Parent: Created child process 5712
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 5712:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 13:44:22.501633 2019] [authz_core:error] [pid 5712:tid 1004] [client ::1:7991] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/publicindex.html
+[Fri Jul 26 13:45:30.290633 2019] [authz_core:error] [pid 5712:tid 1000] [client ::1:8001] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/publicindex.html
+[Fri Jul 26 13:47:36.250633 2019] [mpm_winnt:notice] [pid 1876:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jul 26 13:47:38.251633 2019] [mpm_winnt:notice] [pid 5712:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 13:47:38.311633 2019] [mpm_winnt:notice] [pid 1876:tid 364] AH00430: Parent: Child process 5712 exited successfully.
+[Fri Jul 26 13:47:46.133633 2019] [mpm_winnt:notice] [pid 6708:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 13:47:46.135633 2019] [mpm_winnt:notice] [pid 6708:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 13:47:46.135633 2019] [core:notice] [pid 6708:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 13:47:46.157633 2019] [mpm_winnt:notice] [pid 6708:tid 376] AH00418: Parent: Created child process 4648
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 4648:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 13:48:32.399633 2019] [authz_core:error] [pid 4648:tid 972] [client ::1:8023] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/publicindex.html
+[Fri Jul 26 13:48:33.979633 2019] [authz_core:error] [pid 4648:tid 972] [client ::1:8023] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/publicindex.html
+[Fri Jul 26 13:52:18.402633 2019] [authz_core:error] [pid 4648:tid 984] [client ::1:8046] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/publicindex.html
+[Fri Jul 26 13:54:23.091633 2019] [authz_core:error] [pid 4648:tid 972] [client ::1:8072] AH01630: client denied by server configuration: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/publicindex.html
+[Fri Jul 26 13:54:26.210633 2019] [mpm_winnt:notice] [pid 6708:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jul 26 13:54:56.210633 2019] [mpm_winnt:notice] [pid 6708:tid 376] AH00431: Parent: Forcing termination of child process 4648
+[Fri Jul 26 13:55:02.058633 2019] [mpm_winnt:notice] [pid 8880:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 13:55:02.058633 2019] [mpm_winnt:notice] [pid 8880:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 13:55:02.059633 2019] [core:notice] [pid 8880:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 13:55:02.076633 2019] [mpm_winnt:notice] [pid 8880:tid 376] AH00418: Parent: Created child process 8092
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 8092:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 13:55:06.498633 2019] [cgi:error] [pid 8092:tid 984] [client ::1:8078] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/
+[Fri Jul 26 13:55:09.572633 2019] [cgi:error] [pid 8092:tid 984] [client ::1:8078] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/
+[Fri Jul 26 13:59:27.829699 2019] [cgi:error] [pid 8092:tid 972] [client ::1:8121] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/
+[Fri Jul 26 14:37:13.291857 2019] [mpm_winnt:notice] [pid 8880:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 14:37:15.291857 2019] [mpm_winnt:notice] [pid 8092:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 14:37:15.344857 2019] [mpm_winnt:notice] [pid 8880:tid 376] AH00430: Parent: Child process 8092 exited successfully.
+[Fri Jul 26 14:45:34.856857 2019] [mpm_winnt:notice] [pid 9392:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 14:45:34.856857 2019] [mpm_winnt:notice] [pid 9392:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 14:45:34.856857 2019] [core:notice] [pid 9392:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 14:45:34.872857 2019] [mpm_winnt:notice] [pid 9392:tid 376] AH00418: Parent: Created child process 8856
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 8856:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 14:45:38.677857 2019] [cgi:error] [pid 8856:tid 984] [client ::1:8756] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/
+[Fri Jul 26 14:49:26.801857 2019] [cgi:error] [pid 8856:tid 984] [client ::1:8858] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/
+[Fri Jul 26 14:49:31.225857 2019] [mpm_winnt:notice] [pid 9392:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 14:49:33.225857 2019] [mpm_winnt:notice] [pid 8856:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 14:49:33.287857 2019] [mpm_winnt:notice] [pid 9392:tid 376] AH00430: Parent: Child process 8856 exited successfully.
+[Fri Jul 26 14:49:40.176857 2019] [mpm_winnt:notice] [pid 6240:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 14:49:40.177857 2019] [mpm_winnt:notice] [pid 6240:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 14:49:40.177857 2019] [core:notice] [pid 6240:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 14:49:40.215857 2019] [mpm_winnt:notice] [pid 6240:tid 376] AH00418: Parent: Created child process 3684
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 3684:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 14:49:44.162857 2019] [cgi:error] [pid 3684:tid 980] [client ::1:8861] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/
+[Fri Jul 26 14:49:47.649857 2019] [cgi:error] [pid 3684:tid 980] [client ::1:8861] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/
+[Fri Jul 26 14:49:52.023857 2019] [mpm_winnt:notice] [pid 6240:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 14:49:54.024857 2019] [mpm_winnt:notice] [pid 3684:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 14:49:54.082857 2019] [mpm_winnt:notice] [pid 6240:tid 376] AH00430: Parent: Child process 3684 exited successfully.
+[Fri Jul 26 14:52:02.700857 2019] [mpm_winnt:notice] [pid 6984:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 14:52:02.701857 2019] [mpm_winnt:notice] [pid 6984:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 14:52:02.701857 2019] [core:notice] [pid 6984:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 14:52:02.715857 2019] [mpm_winnt:notice] [pid 6984:tid 376] AH00418: Parent: Created child process 6212
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 6212:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 14:52:06.960857 2019] [cgi:error] [pid 6212:tid 984] [client ::1:8877] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/
+[Fri Jul 26 14:52:10.691857 2019] [cgi:error] [pid 6212:tid 984] [client ::1:8879] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/
+[Fri Jul 26 14:52:13.998857 2019] [cgi:error] [pid 6212:tid 984] [client ::1:8879] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/
+[Fri Jul 26 15:00:07.060857 2019] [mpm_winnt:notice] [pid 6984:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 15:00:09.061857 2019] [mpm_winnt:notice] [pid 6212:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 15:00:09.130857 2019] [mpm_winnt:notice] [pid 6984:tid 376] AH00430: Parent: Child process 6212 exited successfully.
+[Fri Jul 26 15:00:19.045857 2019] [mpm_winnt:notice] [pid 3680:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 15:00:19.046857 2019] [mpm_winnt:notice] [pid 3680:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 15:00:19.046857 2019] [core:notice] [pid 3680:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 15:00:19.061857 2019] [mpm_winnt:notice] [pid 3680:tid 376] AH00418: Parent: Created child process 9328
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 9328:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 15:01:55.606857 2019] [mpm_winnt:notice] [pid 3680:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 15:01:57.617857 2019] [mpm_winnt:notice] [pid 9328:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 15:01:57.662857 2019] [mpm_winnt:notice] [pid 3680:tid 376] AH00430: Parent: Child process 9328 exited successfully.
+[Fri Jul 26 15:09:43.621857 2019] [mpm_winnt:notice] [pid 8184:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 15:09:43.622857 2019] [mpm_winnt:notice] [pid 8184:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 15:09:43.622857 2019] [core:notice] [pid 8184:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 15:09:43.648857 2019] [mpm_winnt:notice] [pid 8184:tid 376] AH00418: Parent: Created child process 8828
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 8828:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 15:10:52.920857 2019] [mpm_winnt:notice] [pid 8184:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 15:10:54.921857 2019] [mpm_winnt:notice] [pid 8828:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 15:10:55.098857 2019] [mpm_winnt:notice] [pid 8184:tid 376] AH00430: Parent: Child process 8828 exited successfully.
+[Fri Jul 26 15:11:02.951857 2019] [mpm_winnt:notice] [pid 8888:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 15:11:02.953857 2019] [mpm_winnt:notice] [pid 8888:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 15:11:02.953857 2019] [core:notice] [pid 8888:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 15:11:02.977857 2019] [mpm_winnt:notice] [pid 8888:tid 376] AH00418: Parent: Created child process 9848
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 9848:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 15:12:23.266857 2019] [mpm_winnt:notice] [pid 8888:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 15:12:25.267857 2019] [mpm_winnt:notice] [pid 9848:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 15:12:25.327857 2019] [mpm_winnt:notice] [pid 8888:tid 376] AH00430: Parent: Child process 9848 exited successfully.
+[Fri Jul 26 15:12:33.509857 2019] [mpm_winnt:notice] [pid 6892:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 15:12:33.510857 2019] [mpm_winnt:notice] [pid 6892:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 15:12:33.510857 2019] [core:notice] [pid 6892:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 15:12:33.524857 2019] [mpm_winnt:notice] [pid 6892:tid 376] AH00418: Parent: Created child process 8608
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 8608:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 15:15:49.351857 2019] [mpm_winnt:notice] [pid 6892:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 15:15:51.352857 2019] [mpm_winnt:notice] [pid 8608:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 15:15:51.410857 2019] [mpm_winnt:notice] [pid 6892:tid 376] AH00430: Parent: Child process 8608 exited successfully.
+[Fri Jul 26 15:16:01.611857 2019] [mpm_winnt:notice] [pid 1864:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 15:16:01.611857 2019] [mpm_winnt:notice] [pid 1864:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 15:16:01.611857 2019] [core:notice] [pid 1864:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 15:16:01.626857 2019] [mpm_winnt:notice] [pid 1864:tid 376] AH00418: Parent: Created child process 8996
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 8996:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 15:16:05.372857 2019] [win32:error] [pid 8996:tid 980] [client ::1:9397] AH02102: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/wsgi_app.py is not executable; ensure interpreted scripts have "#!" or "'!" first line
+[Fri Jul 26 15:16:05.373857 2019] [cgi:error] [pid 8996:tid 980] (9)Bad file descriptor: [client ::1:9397] AH01222: don't know how to spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/wsgi_app.py
+[Fri Jul 26 15:16:17.605857 2019] [win32:error] [pid 8996:tid 972] [client ::1:9400] AH02102: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/wsgi_app.py is not executable; ensure interpreted scripts have "#!" or "'!" first line, referer: http://localhost:9000/cgi-bin/
+[Fri Jul 26 15:16:17.605857 2019] [cgi:error] [pid 8996:tid 972] (9)Bad file descriptor: [client ::1:9400] AH01222: don't know how to spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/wsgi_app.py, referer: http://localhost:9000/cgi-bin/
+[Fri Jul 26 15:20:49.213857 2019] [mpm_winnt:notice] [pid 1864:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 15:20:51.214857 2019] [mpm_winnt:notice] [pid 8996:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 15:20:51.273857 2019] [mpm_winnt:notice] [pid 1864:tid 376] AH00430: Parent: Child process 8996 exited successfully.
+[Fri Jul 26 15:23:09.754857 2019] [mpm_winnt:notice] [pid 9060:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 15:23:09.755857 2019] [mpm_winnt:notice] [pid 9060:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 15:23:09.755857 2019] [core:notice] [pid 9060:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 15:23:09.770857 2019] [mpm_winnt:notice] [pid 9060:tid 376] AH00418: Parent: Created child process 8472
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 8472:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 15:26:23.970857 2019] [mpm_winnt:notice] [pid 9060:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 15:26:25.971857 2019] [mpm_winnt:notice] [pid 8472:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 15:26:26.027857 2019] [mpm_winnt:notice] [pid 9060:tid 376] AH00430: Parent: Child process 8472 exited successfully.
+[Fri Jul 26 15:26:30.983857 2019] [mpm_winnt:notice] [pid 7968:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 15:26:30.983857 2019] [mpm_winnt:notice] [pid 7968:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 15:26:30.984857 2019] [core:notice] [pid 7968:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 15:26:30.998857 2019] [mpm_winnt:notice] [pid 7968:tid 376] AH00418: Parent: Created child process 6932
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 6932:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 15:26:34.743857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9473] malformed header from script 'helloworld.py': Bad header: hello world.
+[Fri Jul 26 15:27:07.886857 2019] [cgi:error] [pid 6932:tid 984] (OS 2)O sistema não pode encontrar o arquivo especificado.  : [client ::1:9478] couldn't create child process: 720002: helloworld.py, referer: http://localhost:9000/cgi-bin/
+[Fri Jul 26 15:27:07.887857 2019] [cgi:error] [pid 6932:tid 984] (OS 2)O sistema não pode encontrar o arquivo especificado.  : [client ::1:9478] AH01223: couldn't spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/helloworld.py, referer: http://localhost:9000/cgi-bin/
+[Fri Jul 26 15:27:10.474857 2019] [cgi:error] [pid 6932:tid 980] (OS 2)O sistema não pode encontrar o arquivo especificado.  : [client ::1:9479] couldn't create child process: 720002: helloworld.py, referer: http://localhost:9000/cgi-bin/
+[Fri Jul 26 15:27:10.475857 2019] [cgi:error] [pid 6932:tid 980] (OS 2)O sistema não pode encontrar o arquivo especificado.  : [client ::1:9479] AH01223: couldn't spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/helloworld.py, referer: http://localhost:9000/cgi-bin/
+[Fri Jul 26 15:27:12.388857 2019] [win32:error] [pid 6932:tid 984] [client ::1:9480] AH02102: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/wsgi_app.py is not executable; ensure interpreted scripts have "#!" or "'!" first line, referer: http://localhost:9000/cgi-bin/
+[Fri Jul 26 15:27:12.389857 2019] [cgi:error] [pid 6932:tid 984] (9)Bad file descriptor: [client ::1:9480] AH01222: don't know how to spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/wsgi_app.py, referer: http://localhost:9000/cgi-bin/
+[Fri Jul 26 15:28:14.567857 2019] [cgi:error] [pid 6932:tid 980] [client ::1:9488] malformed header from script 'helloworld.py': Bad header: hello world., referer: http://localhost:9000/
+[Fri Jul 26 15:29:40.775857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9534] malformed header from script 'helloworld.py': Bad header: hello world., referer: http://localhost:9000/
+[Fri Jul 26 15:29:45.258857 2019] [cgi:error] [pid 6932:tid 980] [client ::1:9537] malformed header from script 'helloworld.py': Bad header: hello world.
+[Fri Jul 26 15:30:28.570857 2019] [win32:error] [pid 6932:tid 984] [client ::1:9545] AH02102: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py is not executable; ensure interpreted scripts have "#!" or "'!" first line, referer: http://localhost:9000/
+[Fri Jul 26 15:30:28.570857 2019] [cgi:error] [pid 6932:tid 984] (9)Bad file descriptor: [client ::1:9545] AH01222: don't know how to spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py, referer: http://localhost:9000/
+[Fri Jul 26 15:31:13.476857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9552] End of script output before headers: helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:31:13.476857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9552] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 5\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:31:13.476857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9552] AH01215:     print "Content-Type: text/plain"\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:31:13.476857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9552] AH01215:                                    ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:31:13.477857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9552] AH01215: SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-Type: text/plain")?\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:10.831857 2019] [cgi:error] [pid 6932:tid 980] [client ::1:9671] End of script output before headers: helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:10.831857 2019] [cgi:error] [pid 6932:tid 980] [client ::1:9671] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 5\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:10.831857 2019] [cgi:error] [pid 6932:tid 980] [client ::1:9671] AH01215:     print "Content-Type: text/plain"\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:10.831857 2019] [cgi:error] [pid 6932:tid 980] [client ::1:9671] AH01215:                                    ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:10.831857 2019] [cgi:error] [pid 6932:tid 980] [client ::1:9671] AH01215: SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-Type: text/plain")?\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:15.855857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9675] End of script output before headers: helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:15.855857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9675] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 5\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:15.855857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9675] AH01215:     print "Content-Type: text/plain"\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:15.855857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9675] AH01215:                                    ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:15.855857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9675] AH01215: SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-Type: text/plain")?\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:41.808857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9682] End of script output before headers: helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:41.808857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9682] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 5\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:41.808857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9682] AH01215:     print "Content-Type: text/plain"\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:41.808857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9682] AH01215:                                    ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:34:41.809857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9682] AH01215: SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-Type: text/plain")?\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:36:50.491857 2019] [cgi:error] [pid 6932:tid 984] [client ::1:9699] malformed header from script 'helloworld.py': Bad header: hello world., referer: http://localhost:9000/
+[Fri Jul 26 15:39:44.513921 2019] [mpm_winnt:notice] [pid 7968:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 15:39:46.515521 2019] [mpm_winnt:notice] [pid 6932:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 15:39:46.571538 2019] [mpm_winnt:notice] [pid 7968:tid 376] AH00430: Parent: Child process 6932 exited successfully.
+[Fri Jul 26 15:41:58.546118 2019] [mpm_winnt:notice] [pid 4632:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 15:41:58.547118 2019] [mpm_winnt:notice] [pid 4632:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 15:41:58.547118 2019] [core:notice] [pid 4632:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 15:41:58.567124 2019] [mpm_winnt:notice] [pid 4632:tid 376] AH00418: Parent: Created child process 9808
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 9808:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 15:42:03.282539 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9769] AH02811: script not found or unable to stat: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/public
+[Fri Jul 26 15:42:08.571125 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9771] AH02812: attempt to invoke directory as script: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/
+[Fri Jul 26 15:42:13.315548 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9771] malformed header from script 'helloworld.py': Bad header: hello world., referer: http://localhost:9000/
+[Fri Jul 26 15:42:19.910526 2019] [cgi:error] [pid 9808:tid 984] (OS 2)O sistema não pode encontrar o arquivo especificado.  : [client ::1:9774] couldn't create child process: 720002: helloworld.py, referer: http://localhost:9000/cgi-bin/
+[Fri Jul 26 15:42:19.910526 2019] [cgi:error] [pid 9808:tid 984] (OS 2)O sistema não pode encontrar o arquivo especificado.  : [client ::1:9774] AH01223: couldn't spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/cgi-bin/helloworld.py, referer: http://localhost:9000/cgi-bin/
+[Fri Jul 26 15:43:02.286107 2019] [win32:error] [pid 9808:tid 984] [client ::1:9784] AH02102: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py is not executable; ensure interpreted scripts have "#!" or "'!" first line, referer: http://localhost:9000/
+[Fri Jul 26 15:43:02.286107 2019] [cgi:error] [pid 9808:tid 984] (9)Bad file descriptor: [client ::1:9784] AH01222: don't know how to spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py, referer: http://localhost:9000/
+[Fri Jul 26 15:43:22.153080 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9789] malformed header from script 'helloworld.py': Bad header: hello world., referer: http://localhost:9000/
+[Fri Jul 26 15:46:56.675976 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9850] End of script output before headers: helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:46:56.675976 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9850] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 5\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:46:56.675976 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9850] AH01215:     print "Content-Type: text/plain"\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:46:56.675976 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9850] AH01215:                                    ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:46:56.675976 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9850] AH01215: SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-Type: text/plain")?\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:46:59.510543 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9851] End of script output before headers: helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:46:59.510543 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9851] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 5\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:46:59.510543 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9851] AH01215:     print "Content-Type: text/plain"\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:46:59.510543 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9851] AH01215:                                    ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:46:59.511543 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9851] AH01215: SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-Type: text/plain")?\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:47:07.586158 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9854] End of script output before headers: helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:47:07.586158 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9854] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 5\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:47:07.586158 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9854] AH01215:     print "Content-Type: text/plain"\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:47:07.586158 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9854] AH01215:                                    ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:47:07.586158 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9854] AH01215: SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-Type: text/plain")?\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:47:25.043648 2019] [win32:error] [pid 9808:tid 984] [client ::1:9861] AH02102: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py is not executable; ensure interpreted scripts have "#!" or "'!" first line, referer: http://localhost:9000/
+[Fri Jul 26 15:47:25.044649 2019] [cgi:error] [pid 9808:tid 984] (9)Bad file descriptor: [client ::1:9861] AH01222: don't know how to spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py, referer: http://localhost:9000/
+[Fri Jul 26 15:48:01.321876 2019] [win32:error] [pid 9808:tid 988] [client ::1:9904] AH02102: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py is not executable; ensure interpreted scripts have "#!" or "'!" first line
+[Fri Jul 26 15:48:01.322876 2019] [cgi:error] [pid 9808:tid 988] (9)Bad file descriptor: [client ::1:9904] AH01222: don't know how to spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py
+[Fri Jul 26 15:48:04.794223 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9905] End of script output before headers: helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:48:04.794223 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9905] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 5\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:48:04.794223 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9905] AH01215:     print "<!DOCTYPE html PUBLIC \\"-//W3C//DTD XHTML 1.1//EN\\" "\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:48:04.794223 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9905] AH01215:                                                                ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:48:04.795223 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9905] AH01215: SyntaxError: Missing parentheses in call to 'print'. Did you mean print("<!DOCTYPE html PUBLIC \\"-//W3C//DTD XHTML 1.1//EN\\" ")?\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:49:36.493392 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9913] malformed header from script 'helloworld.py': Bad header: <!DOCTYPE html PUBLIC "-//W3C/
+[Fri Jul 26 15:49:39.561699 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9914] malformed header from script 'helloworld.py': Bad header: <!DOCTYPE html PUBLIC "-//W3C/
+[Fri Jul 26 15:52:31.384880 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9937] End of script output before headers: helloworld.py
+[Fri Jul 26 15:52:31.384880 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9937] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 5\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 15:52:31.384880 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9937] AH01215:     print "Content-Type: text/html" \r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 15:52:31.384880 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9937] AH01215:                                   ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 15:52:31.384880 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9937] AH01215: SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-Type: text/html")?\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 15:52:34.508192 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9938] End of script output before headers: helloworld.py
+[Fri Jul 26 15:52:34.508192 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9938] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 5\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 15:52:34.508192 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9938] AH01215:     print "Content-Type: text/html" \r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 15:52:34.508192 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9938] AH01215:                                   ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 15:52:34.508192 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9938] AH01215: SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-Type: text/html")?\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 15:52:41.013842 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9941] End of script output before headers: helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:52:41.013842 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9941] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 5\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:52:41.013842 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9941] AH01215:     print "Content-Type: text/html" \r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:52:41.013842 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9941] AH01215:                                   ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:52:41.013842 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9941] AH01215: SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Content-Type: text/html")?\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 15:54:13.587099 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9951] End of script output before headers: wsgi_app.py, referer: http://localhost:9000/
+[Fri Jul 26 15:54:25.473287 2019] [cgi:error] [pid 9808:tid 984] [client ::1:9954] End of script output before headers: wsgi_app.py, referer: http://localhost:9000/
+[Fri Jul 26 15:54:44.165156 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9958] End of script output before headers: wsgi_app.py, referer: http://localhost:9000/
+[Fri Jul 26 15:54:44.165156 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9958] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py", line 13\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py, referer: http://localhost:9000/
+[Fri Jul 26 15:54:44.165156 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9958] AH01215:     wsgi_app();\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py, referer: http://localhost:9000/
+[Fri Jul 26 15:54:44.165156 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9958] AH01215:               ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py, referer: http://localhost:9000/
+[Fri Jul 26 15:54:44.165156 2019] [cgi:error] [pid 9808:tid 988] [client ::1:9958] AH01215: TabError: inconsistent use of tabs and spaces in indentation\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py, referer: http://localhost:9000/
+[Fri Jul 26 15:57:14.921230 2019] [win32:error] [pid 9808:tid 984] [client ::1:10016] AH02102: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py is not executable; ensure interpreted scripts have "#!" or "'!" first line
+[Fri Jul 26 15:57:14.922230 2019] [cgi:error] [pid 9808:tid 984] (9)Bad file descriptor: [client ::1:10016] AH01222: don't know how to spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py
+[Fri Jul 26 16:02:54.392519 2019] [cgi:error] [pid 9808:tid 988] [client ::1:10194] End of script output before headers: helloworld.py
+[Fri Jul 26 16:02:54.392519 2019] [cgi:error] [pid 9808:tid 988] [client ::1:10194] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 13\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:02:54.392519 2019] [cgi:error] [pid 9808:tid 988] [client ::1:10194] AH01215:     ( a = 2 ) \r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:02:54.392519 2019] [cgi:error] [pid 9808:tid 988] [client ::1:10194] AH01215:         ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:02:54.392519 2019] [cgi:error] [pid 9808:tid 988] [client ::1:10194] AH01215: SyntaxError: invalid syntax\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:03:00.170170 2019] [cgi:error] [pid 9808:tid 984] [client ::1:10196] End of script output before headers: helloworld.py
+[Fri Jul 26 16:03:00.170170 2019] [cgi:error] [pid 9808:tid 984] [client ::1:10196] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 13\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:03:00.170170 2019] [cgi:error] [pid 9808:tid 984] [client ::1:10196] AH01215:     ( a = 2 ) \r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:03:00.170170 2019] [cgi:error] [pid 9808:tid 984] [client ::1:10196] AH01215:         ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:03:00.170170 2019] [cgi:error] [pid 9808:tid 984] [client ::1:10196] AH01215: SyntaxError: invalid syntax\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:03:50.107163 2019] [cgi:error] [pid 9808:tid 988] [client ::1:10204] End of script output before headers: helloworld.py
+[Fri Jul 26 16:03:50.108163 2019] [cgi:error] [pid 9808:tid 988] [client ::1:10204] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 13\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:03:50.108163 2019] [cgi:error] [pid 9808:tid 988] [client ::1:10204] AH01215:     a = 2 \r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:03:50.108163 2019] [cgi:error] [pid 9808:tid 988] [client ::1:10204] AH01215:     ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:03:50.108163 2019] [cgi:error] [pid 9808:tid 988] [client ::1:10204] AH01215: IndentationError: unexpected indent\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py
+[Fri Jul 26 16:03:53.591300 2019] [cgi:error] [pid 9808:tid 984] [client ::1:10205] End of script output before headers: helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 16:03:53.592300 2019] [cgi:error] [pid 9808:tid 984] [client ::1:10205] AH01215:   File "C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py", line 13\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 16:03:53.592300 2019] [cgi:error] [pid 9808:tid 984] [client ::1:10205] AH01215:     a = 2 \r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 16:03:53.592300 2019] [cgi:error] [pid 9808:tid 984] [client ::1:10205] AH01215:     ^\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 16:03:53.592300 2019] [cgi:error] [pid 9808:tid 984] [client ::1:10205] AH01215: IndentationError: unexpected indent\r: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/helloworld.py, referer: http://localhost:9000/
+[Fri Jul 26 16:05:10.900468 2019] [mpm_winnt:notice] [pid 4632:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 16:05:12.900668 2019] [mpm_winnt:notice] [pid 9808:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 16:05:12.950673 2019] [mpm_winnt:notice] [pid 4632:tid 376] AH00430: Parent: Child process 9808 exited successfully.
+[Fri Jul 26 16:44:50.572375 2019] [mpm_winnt:notice] [pid 5620:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 16:44:50.572375 2019] [mpm_winnt:notice] [pid 5620:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 16:44:50.572375 2019] [core:notice] [pid 5620:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 16:44:50.587376 2019] [mpm_winnt:notice] [pid 5620:tid 376] AH00418: Parent: Created child process 7828
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 7828:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 16:45:03.029817 2019] [mpm_winnt:notice] [pid 5620:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jul 26 16:45:33.032817 2019] [mpm_winnt:notice] [pid 5620:tid 376] AH00431: Parent: Forcing termination of child process 7828
+[Fri Jul 26 16:47:05.182557 2019] [mpm_winnt:notice] [pid 6812:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 16:47:05.182557 2019] [mpm_winnt:notice] [pid 6812:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 16:47:05.182557 2019] [core:notice] [pid 6812:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 16:47:05.198153 2019] [mpm_winnt:notice] [pid 6812:tid 376] AH00418: Parent: Created child process 5744
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 5744:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 16:47:20.098523 2019] [mpm_winnt:notice] [pid 6812:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jul 26 16:47:50.127973 2019] [mpm_winnt:notice] [pid 6812:tid 376] AH00431: Parent: Forcing termination of child process 5744
+[Fri Jul 26 16:49:29.107974 2019] [mpm_winnt:notice] [pid 8676:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 16:49:29.110974 2019] [mpm_winnt:notice] [pid 8676:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 16:49:29.110974 2019] [core:notice] [pid 8676:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 16:49:29.136969 2019] [mpm_winnt:notice] [pid 8676:tid 376] AH00418: Parent: Created child process 6984
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 6984:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 16:53:46.423625 2019] [mpm_winnt:notice] [pid 8676:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 16:53:48.452422 2019] [mpm_winnt:notice] [pid 6984:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 16:53:48.659401 2019] [mpm_winnt:notice] [pid 8676:tid 376] AH00430: Parent: Child process 6984 exited successfully.
+[Fri Jul 26 17:04:37.789132 2019] [mpm_winnt:notice] [pid 8532:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Fri Jul 26 17:04:37.789132 2019] [mpm_winnt:notice] [pid 8532:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Fri Jul 26 17:04:37.789132 2019] [core:notice] [pid 8532:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Fri Jul 26 17:04:37.804732 2019] [mpm_winnt:notice] [pid 8532:tid 376] AH00418: Parent: Created child process 4012
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 4012:tid 472] AH00354: Child: Starting 64 worker threads.
+[Fri Jul 26 17:33:20.162123 2019] [mpm_winnt:notice] [pid 8532:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jul 26 17:33:22.203123 2019] [mpm_winnt:notice] [pid 4012:tid 472] AH00364: Child: All worker threads have exited.
+[Fri Jul 26 17:33:22.470123 2019] [mpm_winnt:notice] [pid 8532:tid 376] AH00430: Parent: Child process 4012 exited successfully.
+[Mon Jul 29 09:19:28.154561 2019] [mpm_winnt:notice] [pid 8508:tid 376] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Mon Jul 29 09:19:28.155561 2019] [mpm_winnt:notice] [pid 8508:tid 376] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Mon Jul 29 09:19:28.155561 2019] [core:notice] [pid 8508:tid 376] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Mon Jul 29 09:19:28.170563 2019] [mpm_winnt:notice] [pid 8508:tid 376] AH00418: Parent: Created child process 3236
+Apache server interrupted...
+019] [mpm_winnt:notice] [pid 3236:tid 472] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 29 09:19:54.347180 2019] [win32:error] [pid 3236:tid 972] [client ::1:24721] AH02102: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py is not executable; ensure interpreted scripts have "#!" or "'!" first line, referer: http://localhost:9000/
+[Mon Jul 29 09:19:54.347180 2019] [cgi:error] [pid 3236:tid 972] (9)Bad file descriptor: [client ::1:24721] AH01222: don't know how to spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py, referer: http://localhost:9000/
+[Mon Jul 29 10:36:23.113011 2019] [mpm_winnt:notice] [pid 8508:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 29 10:36:25.114211 2019] [mpm_winnt:notice] [pid 3236:tid 472] AH00364: Child: All worker threads have exited.
+[Mon Jul 29 10:36:25.237223 2019] [mpm_winnt:notice] [pid 8508:tid 376] AH00430: Parent: Child process 3236 exited successfully.
+[Mon Jan 20 15:21:12.460204 2020] [mpm_winnt:notice] [pid 10548:tid 452] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Mon Jan 20 15:21:12.460204 2020] [mpm_winnt:notice] [pid 10548:tid 452] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Mon Jan 20 15:21:12.460204 2020] [core:notice] [pid 10548:tid 452] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Mon Jan 20 15:21:12.536211 2020] [mpm_winnt:notice] [pid 10548:tid 452] AH00418: Parent: Created child process 8248
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8248:tid 540] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 20 15:30:53.557081 2020] [mpm_winnt:notice] [pid 10548:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 20 15:30:55.557281 2020] [mpm_winnt:notice] [pid 8248:tid 540] AH00364: Child: All worker threads have exited.
+[Mon Jan 20 15:30:55.669292 2020] [mpm_winnt:notice] [pid 10548:tid 452] AH00430: Parent: Child process 8248 exited successfully.
+[Mon Jan 20 15:34:58.741597 2020] [mpm_winnt:notice] [pid 5832:tid 440] AH00455: Apache/2.4.39 (Win32) mod_wsgi/4.6.7 Python/3.7 configured -- resuming normal operations
+[Mon Jan 20 15:34:58.742597 2020] [mpm_winnt:notice] [pid 5832:tid 440] AH00456: Apache Lounge VS16 Server built: May 28 2019 16:19:22
+[Mon Jan 20 15:34:58.742597 2020] [core:notice] [pid 5832:tid 440] AH00094: Command line: 'Apache24\\bin\\httpd.exe -d C:/Users/maykocosta/Desktop/AmbientePy/Apache24'
+[Mon Jan 20 15:34:58.746598 2020] [mpm_winnt:notice] [pid 5832:tid 440] AH00418: Parent: Created child process 7512
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7512:tid 532] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 20 15:35:13.869110 2020] [win32:error] [pid 7512:tid 1052] [client ::1:60593] AH02102: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py is not executable; ensure interpreted scripts have "#!" or "'!" first line, referer: http://localhost:9000/
+[Mon Jan 20 15:35:13.870110 2020] [cgi:error] [pid 7512:tid 1052] (9)Bad file descriptor: [client ::1:60593] AH01222: don't know how to spawn child process: C:/Users/maykocosta/Desktop/AmbientePy/ServidorPython/python32_web/fabrica/public/wsgi_app.py, referer: http://localhost:9000/
+[Mon Jan 20 17:17:50.654285 2020] [mpm_winnt:notice] [pid 5832:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 20 17:17:52.937285 2020] [mpm_winnt:notice] [pid 7512:tid 532] AH00364: Child: All worker threads have exited.
+[Mon Jan 20 17:17:53.873285 2020] [mpm_winnt:notice] [pid 5832:tid 440] AH00430: Parent: Child process 7512 exited successfully.

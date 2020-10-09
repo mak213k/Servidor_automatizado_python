@@ -1,2 +1,2 @@
-@echo off
-start cmd /k cd ServidorPython\python32_web
+cd ServidorPython\python32_web\python.exe
+pause
